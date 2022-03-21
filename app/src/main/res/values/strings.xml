@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SplashScreenApp</string>
+    <string name="emailAdres">example@gmail.com</string>
+    <string name="txturl">https://www.google.com</string>
+</resources>
